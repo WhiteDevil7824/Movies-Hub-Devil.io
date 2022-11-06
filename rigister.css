@@ -19,3 +19,7 @@ img{
     position: relative;
     float: right;
 }
+nav{
+    float: left;
+    bottom: 80px;
+}
